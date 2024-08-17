@@ -30,13 +30,13 @@ education:
   courses:
     - course: Ph.D. 
       institution: Georgia Institute of Technology
-      year: 2004
+      year: 2000 – 2004
     - course: M.S.
-      institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: 1995
+      institution: Korea Advanced Institute of Science and Technology
+      year: 1993 – 1995
     - course: B.S. 
       institution: Korea University
-      year: 1993
+      year: 1989 – 1993
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,6 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Seung-Jong (Jay) Park is the Kummer Endowed Professor and the Chair of the Computer Science Department of the College of Engineering and Computing at the Missouri University of Science & Technology. He has worked in cyberinfrastructure development for large-scale scientific and engineering applications since 2004 after he received Ph.D. in the school of Electrical and Computer Engineering from the Georgia Institute of Technology. He has performed interdisciplinary research projects including (1) big data and deep learning research including developing software frameworks for large-scale science applications; and (2) cyberinfrastructure development using cloud computing, high-performance computing, and high-speed networks. Those projects have been supported by federal and state funding programs including NSF, NASA, NIH, ONR, and AFRL. He received IBM faculty research awards between 2015-2017. He was Dr. Fred H. Fenn Memorial Professor of Computer Science and Engineering at Louisiana State University before joining Missouri S&T. He also served as an associate director for the Center for Computation and Technology of LSU between 2016-2018. Between 2021-2023, he had served at the U.S. National Science Foundation as a program director managing research support programs, such as Cyberinfrastructure for Sustained Scientific Innovation (CSSI), Principles and Practice of Scalable Systems (PPoSS), Computational and Data-Enabled Science and Engineering (CDS&E), and others.
