@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Seung-Jong (Jay) Park is the Kummer Endowed Professor and the Chair of the Computer Science Department of the College of Engineering and Computing at the Missouri University of Science & Technology. He has worked in cyberinfrastructure development for large-scale scientific and engineering applications since 2004 after he received Ph.D. in the school of Electrical and Computer Engineering from the Georgia Institute of Technology. He has performed interdisciplinary research projects including (1) big data and deep learning research including developing software frameworks for large-scale science applications; and (2) cyberinfrastructure development using cloud computing, high-performance computing, and high-speed networks. Those projects have been supported by federal and state funding programs including NSF, NASA, NIH, ONR, and AFRL. He received IBM faculty research awards between 2015-2017. He was Dr. Fred H. Fenn Memorial Professor of Computer Science and Engineering at Louisiana State University before joining Missouri S&T. He also served as an associate director for the Center for Computation and Technology of LSU between 2016-2018. Between 2021-2023, he had served at the U.S. National Science Foundation as a program director managing research support programs, such as Cyberinfrastructure for Sustained Scientific Innovation (CSSI), Principles and Practice of Scalable Systems (PPoSS), Computational and Data-Enabled Science and Engineering (CDS&E), and others.

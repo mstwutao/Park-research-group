@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Park's
-        Research Group
+        # Park'sResearch Group
       image:
         filename: welcome.jpg
       text: |
