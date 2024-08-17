@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Seung-Jong (Jay) Park
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Seung-Jong
+last_name: Park
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Kummer Endowed Professor and Chair of the Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Missouri University of Science & Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Big data, Deep Learning, Cyberinfrastructure, High Performance Computing.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Big data
+  - Deep Learning
+  - Cyberinfrastructure 
+  - High Performance Computing
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. 
+      institution: Georgia Institute of Technology
+      year: 2004
+    - course: M.S.
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 1995
+    - course: B.S. 
+      institution: Korea University
+      year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
