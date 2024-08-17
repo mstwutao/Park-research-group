@@ -7,10 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        # Park'sResearch Group
+      title: 
       image:
-        filename: welcome.jpg
+        filename: sjpark-cluster.jpg
       text: |
         <br>
         
