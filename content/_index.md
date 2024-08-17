@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Park's
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Park's Research Group** focus on Big data, Deep Learning, Cyberinfrastructure, High Performance Computing, High Speed Networks, Large-scale scientific applications, Cloud Computing, Interdisciplinary research including bioinformatics..
   
   - block: collection
     content:
