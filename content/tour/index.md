@@ -8,16 +8,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: Genome-2.png
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
       - title: Campus
         content: 'Aerial shot of the Missouri S&T campus in fall'
         align: left
@@ -28,6 +18,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: Genome-2.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: World-Class Artificial Intelligence Lab
         content: 'We have openings!'
         align: right

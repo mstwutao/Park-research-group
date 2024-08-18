@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        The **Park's Research Group** focus on Deep Learning, Cyberinfrastructure, High Performance Computing, Cloud Computing and interdisciplinary research including bioinformatics.
+        The **Park's Research Group** focus on Deep Learning, Cyberinfrastructure, High Performance Computing and interdisciplinary research including bioinformatics and medical image analysis.
         {style="text-align: justify;"}
   
   # - block: collection
