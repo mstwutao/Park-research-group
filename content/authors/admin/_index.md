@@ -7,7 +7,7 @@ first_name: Seung-Jong
 last_name: Park
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Kummer Endowed Professor and Chair of the Computer Science
@@ -15,7 +15,7 @@ role: Kummer Endowed Professor and Chair of the Computer Science
 # Organizations/Affiliations
 organizations:
   - name: Missouri University of Science & Technology
-    url: ''
+    url: https://www.mst.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Big data, Deep Learning, Cyberinfrastructure, High Performance Computing.
