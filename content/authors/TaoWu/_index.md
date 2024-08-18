@@ -68,8 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Postdoc
 ---
 
 My name is Tao Wu (吴涛), I am currently a postdoctoral fellow at [Missouri University of  Science and Technology](https://www.mst.edu/), working with [Dr. Seung-Jong Park](https://sites.mst.edu/sjpark/). I received my bachelor degree in Engineering Mechanics from [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China in 2018 and Ph.D. degree in Computer Science from [Missouri University of  Science and Technology](https://www.mst.edu/), Rolla, Missouri in 2024, under the co-supervision of [Dr. Donald C. Wunsch II](https://scholar.google.com/citations?hl=en&user=fQC7bIoAAAAJ&view_op=list_works) and [Dr. Tie Luo](https://tluocs.github.io/). My research interests include computer vision, bioinformatics, medical image analysis and trustworthy AI. More specifically, my focus is on developing methods to enhance the representation, optimization, generalization, and robustness of deep neural networks (DNNs) and aim to apply the capabilities of DNNs to the analysis of genomic and medical data to advance human health.
