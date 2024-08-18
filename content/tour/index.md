@@ -13,17 +13,17 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: Genome-2.png
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Campus
+        content: 'Aerial shot of the Missouri S&T campus in fall'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: campus.jpg
             filters:
               brightness: 0.7
           position: center
