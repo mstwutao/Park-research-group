@@ -28,12 +28,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Artificial Intelligence Lab
+        content: 'We have openings!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: Genetik.png
             filters:
               brightness: 0.5
           position: center
