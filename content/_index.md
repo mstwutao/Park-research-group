@@ -14,6 +14,7 @@ sections:
         <br>
         
         The **Park's Research Group** focus on Big data, Deep Learning, Cyberinfrastructure, High Performance Computing, High Speed Networks, Large-scale scientific applications, Cloud Computing, Interdisciplinary research including bioinformatics.
+        {style="text-align: justify;"}
   
   # - block: collection
   #   content:
